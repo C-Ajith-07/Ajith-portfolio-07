@@ -85,7 +85,6 @@ header {
 
 .header-content {
     position: relative;
-    z-index: 2;
 }
 
 .header-bg {
